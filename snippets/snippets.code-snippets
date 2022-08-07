@@ -1,21 +1,3 @@
 {
-    "Tailwindcss + vite starter page" : {
-        "prefix": "tvite",
-        "body": [
-            "<!DOCTYPE html>",
-            "<html lang=\"en\">",
-            "<head>",
-            "<meta charset=\"UTF-8\" />",
-            "<link rel=\"icon\" type=\"image/svg+xml\" href=\"./assets/favicon.svg\" />",
-            "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
-            "<meta name=\"description\" content=\"{Title}\" />",
-            "<title>{Title}</title>",
-            "</head>",
-            "<body class=\"bg-white dark:bg-dark\">",
-            "<header>",
-            "<div class=\"mx-auto px-6 md:max-w-3xl md:px-12 lg:max-w-7xl\">",
-            "<div class=\"flex justify-between\">",
-            "<img src=\"./assets/images/logo.svg\" class=\"h-9 dark:hidden\" width=\"129.69\" height=\"36\" alt=\"some description\" />",
-        ]
-    }
+
 }
