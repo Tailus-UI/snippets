@@ -1,0 +1,21 @@
+{
+  "name": "snippus",
+  "displayName": "snippus",
+  "description": "Tailus ui components code snippets built with tailwindcss in your your vs code",
+  "version": "1.0.0",
+  "publisher": "Tailus",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
