@@ -1,6 +1,6 @@
 {
     "tailus default small button" : {
-        "prefix": "btn:sm",
+        "prefix": "tailus-btn:sm",
         "body": [
             "<button class=\"w-max relative flex h-8 items-center px-3.5 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
             "    <span class=\"w-max relative text-sm tracking-wide font-semibold text-white\">",
@@ -12,9 +12,8 @@
     },
     "tailus default medium button" : {
         "prefix" : [
-            "btn",
-            "btn:md",
-            "btn:tailus"
+            "tailus-btn",
+            "tailus-btn:md",
         ],
         "body": [
             "<button class=\"w-max relative flex h-9 items-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
@@ -26,7 +25,7 @@
         "description": "tailus default hight emphasis medium primary button"
     },
     "tailus default large button" : {
-        "prefix": "btn:lg",
+        "prefix": "tailus-btn:lg",
         "body": [
             "<button class=\"w-max relative flex h-11 items-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
             "    <span class=\"w-max relative text-base font-semibold text-white\">",
@@ -38,8 +37,7 @@
     },
     "tailus default small button link" : {
         "prefix": [
-            "a:sm",
-            "btn-link:sm"
+            "tailus-btn:a:sm"
         ],
         "body": [
             "<a href=\"\" class=\"w-max relative flex h-8 items-center px-3.5 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
@@ -52,9 +50,7 @@
     },
     "tailus default medium button link" : {
         "prefix" : [
-            "a",
-            "a:md",
-            "btn-link:md"
+            "tailus-btn:a:md"
         ],
         "body": [
             "<a href=\"\" class=\"w-max relative flex h-9 items-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
@@ -67,8 +63,7 @@
     },
     "tailus default large button link" : {
         "prefix": [
-            "a:lg",
-            "btn-link:lg"
+            "tailus-btn:a:lg"
         ],
         "body": [
             "<a href=\"\" class=\"w-max relative flex h-11 items-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",

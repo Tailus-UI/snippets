@@ -1,0 +1,77 @@
+{
+    "tailus rounded small button" : {
+        "prefix": "tailus-btn:sm:rounded",
+        "body": [
+            "<button class=\"w-max relative flex h-8 items-center px-3.5 before:absolute before:inset-0 before:rounded-md before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm tracking-wide font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus rounded hight emphasis small primary button"
+    },
+    "tailus rounded medium button" : {
+        "prefix" : [
+            "tailus-btn:rounded",
+            "tailus-btn:md:rounded"
+        ],
+        "body": [
+            "<button class=\"w-max relative flex h-9 items-center px-4 before:absolute before:inset-0 before:rounded-md before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus rounded hight emphasis medium primary button"
+    },
+    "tailus rounded large button" : {
+        "prefix": "tailus-btn:lg:rounded",
+        "body": [
+            "<button class=\"w-max relative flex h-11 items-center px-6 before:absolute before:inset-0 before:rounded-md before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-base font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus rounded hight emphasis small primary button"
+    },
+    "tailus rounded small button link" : {
+        "prefix": [
+            "tailus-btn:a:sm:rounded"
+        ],
+        "body": [
+            "<a href=\"\" class=\"w-max relative flex h-8 items-center px-3.5 before:absolute before:inset-0 before:rounded-md before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm tracking-wide font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus rounded hight emphasis small primary button link"
+    },
+    "tailus rounded medium button link" : {
+        "prefix" : [
+            "tailus-btn:a:md:rounded"
+        ],
+        "body": [
+            "<a href=\"\" class=\"w-max relative flex h-9 items-center px-4 before:absolute before:inset-0 before:rounded-md before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus rounded hight emphasis medium primary button link"
+    },
+    "tailus rounded large button link" : {
+        "prefix": [
+            "tailus-btn:a:lg:rounded"
+        ],
+        "body": [
+            "<a href=\"\" class=\"w-max relative flex h-11 items-center px-6 before:absolute before:inset-0 before:rounded-md before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-base font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus rounded hight emphasis large primary button link"
+    },
+}
