@@ -93,4 +93,194 @@
         ],
         "description": "tailus hight emphasis large primary trailing icon button link"
     },
+
+    "tailus medium emphasis small-size trailing icon button" : {
+        "prefix": "tailus-btn:sm:mde:trailing",
+        "body": [
+            "<button class=\"relative h-8 w-max px-3.5 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-2 text-sm tracking-wide font-medium text-primary\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mx-1 h-4 w-4 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus medium emphasis small primary trailing icon button"
+    },
+    "tailus medium emphasis medium-size trailing icon button" : {
+        "prefix" : [
+            "tailus-btn:mde:trailing",
+            "tailus-btn:md:mde:trailing"
+        ],
+        "body": [
+            "<button class=\"relative h-9 w-max px-4 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-2.5 text-sm tracking-wide font-medium text-primary\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mx-1 h-4 w-4 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus medium emphasis medium primary trailing icon button"
+    },
+    "tailus medium emphasis large trailing icon button" : {
+        "prefix": "tailus-btn:lg:mde:trailing",
+        "body": [
+            "<button class=\"relative h-11 w-max px-6 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-3 text-sm tracking-wide font-medium text-primary\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mr-1.5 h-5 w-5 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus medium emphasis small primary trailing icon button"
+    },
+    
+    "tailus medium emphasis small-size trailing icon button link" : {
+        "prefix": [
+            "tailus-btn:a:sm:mde:trailing"
+        ],
+        "body": [
+            "<a href=\"\" class=\"relative h-8 w-max px-3.5 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-2 text-sm tracking-wide font-medium text-primary\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mx-1 h-4 w-4 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus medium emphasis small primary trailing icon button link"
+    },
+    "tailus medium emphasis medium-size trailing icon button link" : {
+        "prefix" : [
+            "tailus-btn:a:md:mde:trailing"
+        ],
+        "body": [
+            "<a href=\"\" class=\"relative h-9 w-max px-4 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-2.5 text-sm tracking-wide font-medium text-primary\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mx-1 h-4 w-4 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus medium emphasis medium primary trailing icon button link"
+    },
+    "tailus medium emphasis large trailing icon button link" : {
+        "prefix": [
+            "tailus-btn:a:lg:mde:trailing"
+        ],
+        "body": [
+            "<a href=\"\" class=\"relative h-11 w-max px-6 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-3 text-sm tracking-wide font-medium text-primary\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mr-1.5 h-5 w-5 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus medium emphasis large primary trailing icon button link"
+    },
+
+    "tailus low emphasis small-size trailing icon button" : {
+        "prefix": "tailus-btn:sm:low:trailing",
+        "body": [
+            "<button class=\"relative h-8 w-max px-3.5 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-2 text-sm tracking-wide font-medium text-gray-600\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mx-1 h-4 w-4 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus low emphasis small primary trailing icon button"
+    },
+    "tailus low emphasis medium-size trailing icon button" : {
+        "prefix" : [
+            "tailus-btn:low:trailing",
+            "tailus-btn:md:low:trailing"
+        ],
+        "body": [
+            "<button class=\"relative h-9 w-max px-4 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-2.5 text-sm tracking-wide font-medium text-gray-600\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mx-1 h-4 w-4 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus low emphasis medium primary trailing icon button"
+    },
+    "tailuslowm emphasis large trailing icon button" : {
+        "prefix": "tailus-btn:low:lg:trailing",
+        "body": [
+            "<button class=\"relative h-11 w-max px-6 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-3 text-sm tracking-wide font-medium text-gray-600\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mr-1.5 h-5 w-5 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus low emphasis small primary trailing icon button"
+    },
+    
+    "tailus low emphasis small-size trailing icon button link" : {
+        "prefix": [
+            "tailus-btn:a:sm:low:low:trailing"
+        ],
+        "body": [
+            "<a href=\"\" class=\"relative h-8 w-max px-3.5 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-2 text-sm tracking-wide font-medium text-gray-600\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mx-1 h-4 w-4 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus low emphasis small primary trailing icon button link"
+    },
+    "tailus low emphasis medium-size trailing icon button link" : {
+        "prefix" : [
+            "tailus-btn:a:md:low:trailing"
+        ],
+        "body": [
+            "<a href=\"\" class=\"relative h-9 w-max px-4 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-2.5 text-sm tracking-wide font-medium text-gray-600\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mx-1 h-4 w-4 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus low emphasis medium primary trailing icon button link"
+    },
+    "tailus low emphasis large trailing icon button link" : {
+        "prefix": [
+            "tailus-btn:a:lg:low:trailing"
+        ],
+        "body": [
+            "<a href=\"\" class=\"relative h-11 w-max px-6 flex items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative flex items-center gap-3 text-sm tracking-wide font-medium text-gray-600\">",
+            "       Go",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mr-1.5 h-5 w-5 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "       </svg>",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus low emphasis large primary trailing icon button link"
+    },
 }
