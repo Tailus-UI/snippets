@@ -1,0 +1,85 @@
+{
+    "tailus medium emphasis small button" : {
+        "prefix": [
+            "btn:sm:mde"
+        ],
+        "body": [
+            "<button class=\"w-max relative flex h-8 items-center px-3.5 before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm tracking-wide font-medium text-primary\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus medium emphasis small primary button"
+    },
+    "tailus medium emphasis medium-size button" : {
+        "prefix" : [
+            "btn:mde",
+            "btn:md:mde",
+        ],
+        "body": [
+            "<button class=\"w-max relative flex h-9 items-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm font-semibold text-primary\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus medium emphasis medium primary button"
+    },
+    "tailus medium emphasis large button" : {
+        "prefix" : [
+            "btn:lg:mde",
+        ],
+        "body": [
+            "<button class=\"w-max relative flex h-11 items-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-base font-semibold text-primary\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus medium emphasis small primary button",
+    },
+    "tailus medium emphasis small button link" : {
+        "prefix": [
+            "a:sm:mde",
+            "btn-link:sm:mde"
+        ],
+        "body": [
+            "<a href=\"\" class=\"w-max relative flex h-8 items-center px-3.5 before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm tracking-wide font-semibold text-primary\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus medium emphasis small primary button link"
+    },
+    "tailus medium emphasis medium button link" : {
+        "prefix" : [
+            "a:mde",
+            "a:md:mde",
+            "btn-link:md:mde"
+        ],
+        "body": [
+            "<a href=\"\" class=\"w-max relative flex h-9 items-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm font-semibold text-primary\">",
+            "       Button",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus medium emphasis medium primary button link"
+    },
+    "tailus medium emphasis large button link" : {
+        "prefix": [
+            "a:lg:mde",
+            "btn-link:lg:mde"
+        ],
+        "body": [
+            "<a href=\"\" class=\"w-max relative flex h-11 items-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-base font-semibold text-primary\">",
+            "       Button",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus medium emphasis large primary button link"
+    },
+}

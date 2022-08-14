@@ -15,6 +15,18 @@
       {
         "language": "html",
         "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/emphasis/hight.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/emphasis/medium.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/emphasis/low.code-snippets"
       }
     ]
   }

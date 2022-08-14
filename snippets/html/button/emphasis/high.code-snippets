@@ -1,0 +1,82 @@
+{
+    "tailus default small button" : {
+        "prefix": "btn:sm",
+        "body": [
+            "<button class=\"w-max relative flex h-8 items-center px-3.5 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm tracking-wide font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus default hight emphasis small primary button"
+    },
+    "tailus default medium button" : {
+        "prefix" : [
+            "btn",
+            "btn:md",
+            "btn:tailus"
+        ],
+        "body": [
+            "<button class=\"w-max relative flex h-9 items-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus default hight emphasis medium primary button"
+    },
+    "tailus default large button" : {
+        "prefix": "btn:lg",
+        "body": [
+            "<button class=\"w-max relative flex h-11 items-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-base font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus default hight emphasis small primary button"
+    },
+    "tailus default small button link" : {
+        "prefix": [
+            "a:sm",
+            "btn-link:sm"
+        ],
+        "body": [
+            "<a href=\"\" class=\"w-max relative flex h-8 items-center px-3.5 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm tracking-wide font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus default hight emphasis small primary button link"
+    },
+    "tailus default medium button link" : {
+        "prefix" : [
+            "a",
+            "a:md",
+            "btn-link:md"
+        ],
+        "body": [
+            "<a href=\"\" class=\"w-max relative flex h-9 items-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-sm font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus default hight emphasis medium primary button link"
+    },
+    "tailus default large button link" : {
+        "prefix": [
+            "a:lg",
+            "btn-link:lg"
+        ],
+        "body": [
+            "<a href=\"\" class=\"w-max relative flex h-11 items-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "    <span class=\"w-max relative text-base font-semibold text-white\">",
+            "       Button",
+            "    </span>",
+            "</a>"
+        ],
+        "description": "tailus default hight emphasis large primary button link"
+    },
+}
