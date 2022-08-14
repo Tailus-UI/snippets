@@ -27,6 +27,14 @@
       {
         "language": "html",
         "path": "./snippets/html/button/emphasis/low.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/corners/rounded.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/corners/unrounded.code-snippets"
       }
     ]
   }
