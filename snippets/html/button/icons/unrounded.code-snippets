@@ -2,7 +2,7 @@
     "tailus unrounded small icon button" : {
         "prefix": "tailus-btn:sm:unrounded:icon",
         "body": [
-            "<button class=\"relative h-8 w-8 flex items-center justify-center before:absolute before:inset-0  before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "<button aria-label=\"delete\" class=\"relative h-8 w-8 flex items-center justify-center before:absolute before:inset-0  before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
             "    <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"relative h-4 w-4 stroke-white\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
             "        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16\" />",
             "    </svg>",
@@ -16,7 +16,7 @@
             "tailus-btn:md:unrounded:icon"
         ],
         "body": [
-            "<button class=\"relative h-9 w-9 flex items-center justify-center before:absolute before:inset-0  before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "<button aria-label=\"delete\" class=\"relative h-9 w-9 flex items-center justify-center before:absolute before:inset-0  before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
             "    <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"relative h-4 w-4 stroke-white\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
             "        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16\" />",
             "    </svg>",
@@ -27,7 +27,7 @@
     "tailus unrounded large icon button" : {
         "prefix": "tailus-btn:lg:unrounded:icon",
         "body": [
-            "<button class=\"relative h-11 w-11 flex items-center justify-center before:absolute before:inset-0  before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "<button aria-label=\"delete\" class=\"relative h-11 w-11 flex items-center justify-center before:absolute before:inset-0  before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
             "    <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"relative h-5 w-5 stroke-white\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
             "        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16\" />",
             "    </svg>",
@@ -78,7 +78,7 @@
     "tailus unrounded medium emphasis small icon button" : {
         "prefix": "tailus-btn:sm:mde:unrounded:icon",
         "body": [
-            "<button class=\"relative h-8 w-8 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "<button aria-label=\"delete\" class=\"relative h-8 w-8 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
             "    <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"relative h-4 w-4 stroke-primary\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
             "        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16\" />",
             "    </svg>",
@@ -92,7 +92,7 @@
             "tailus-btn:md:mde:unrounded:icon"
         ],
         "body": [
-            "<button class=\"relative h-9 w-9 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "<button aria-label=\"delete\" class=\"relative h-9 w-9 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
             "    <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"relative h-4 w-4 stroke-primary\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
             "        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16\" />",
             "    </svg>",
@@ -103,7 +103,7 @@
     "tailus unrounded medium emphasis large icon button" : {
         "prefix": "tailus-btn:lg:mde:unrounded:icon",
         "body": [
-            "<button class=\"relative h-11 w-11 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "<button aria-label=\"delete\" class=\"relative h-11 w-11 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-primary-100 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
             "    <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"relative h-5 w-5 stroke-primary\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
             "        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16\" />",
             "    </svg>",
@@ -154,7 +154,7 @@
     "tailus unrounded low emphasis small icon button" : {
         "prefix": "tailus-btn:sm:low:unrounded:icon",
         "body": [
-            "<button class=\"relative h-8 w-8 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "<button aria-label=\"delete\" class=\"relative h-8 w-8 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
             "    <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"relative h-4 w-4 stroke-gray-600\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
             "        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16\" />",
             "    </svg>",
@@ -168,7 +168,7 @@
             "tailus-btn:md:low:unrounded:icon"
         ],
         "body": [
-            "<button class=\"relative h-9 w-9 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "<button aria-label=\"delete\" class=\"relative h-9 w-9 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
             "    <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"relative h-4 w-4 stroke-gray-600\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
             "        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16\" />",
             "    </svg>",
@@ -179,7 +179,7 @@
     "tailus unrounded low emphasis large icon button" : {
         "prefix": "tailus-btn:lg:low:unrounded:icon",
         "body": [
-            "<button class=\"relative h-11 w-11 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
+            "<button aria-label=\"delete\" class=\"relative h-11 w-11 flex items-center justify-center before:absolute before:inset-0 before:unrounded:icon-md before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
             "    <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"relative h-5 w-5 stroke-gray-600\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
             "        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16\" />",
             "    </svg>",
