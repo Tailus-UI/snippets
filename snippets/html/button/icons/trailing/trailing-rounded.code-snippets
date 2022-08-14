@@ -220,7 +220,7 @@
         ],
         "description": "tailus rounded low emphasis medium primary trailing icon button"
     },
-    "tailuslowm emphasis large trailing icon button" : {
+    "tailus rounded low emphasis large trailing icon button" : {
         "prefix": "tailus-btn:low:lg:trailing",
         "body": [
             "<button class=\"relative h-11 w-max px-6 flex items-center justify-center before:absolute before:inset-0 before:rounded-md before:bg-white before:border before:border-gray-300 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:bg-gray-300 disabled:before:scale-100\">",
