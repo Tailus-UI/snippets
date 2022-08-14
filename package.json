@@ -35,6 +35,42 @@
       {
         "language": "html",
         "path": "./snippets/html/button/corners/unrounded.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/icons/default.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/icons/rounded.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/icons/unrounded.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/icons/leading/default.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/icons/leading/rounded.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/icons/leading/unrounded.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/icons/trailing/default.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/icons/trailing/rounded.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/button/icons/trailing/unrounded.code-snippets"
       }
     ]
   }
