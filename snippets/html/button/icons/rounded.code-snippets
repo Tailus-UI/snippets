@@ -164,7 +164,7 @@
     },
     "tailus rounded low emphasis medium-size icon button" : {
         "prefix" : [
-            "tailus-btn:rounded:low:rounded:icon",
+            "tailus-btn:low:rounded:icon",
             "tailus-btn:md:low:rounded:icon"
         ],
         "body": [
