@@ -71,6 +71,14 @@
       {
         "language": "html",
         "path": "./snippets/html/button/icons/trailing/unrounded.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/cards/blog.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/cards/features.code-snippets"
       }
     ]
   }
