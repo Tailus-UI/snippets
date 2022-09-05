@@ -79,6 +79,10 @@
       {
         "language": "html",
         "path": "./snippets/html/cards/features.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/navbar/navbar.code-snippets"
       }
     ]
   }
