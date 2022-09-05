@@ -82,6 +82,10 @@
       },
       {
         "language": "html",
+        "path": "./snippets/html/cards/ecommerce.code-snippets"
+      },
+      {
+        "language": "html",
         "path": "./snippets/html/navbar/navbar.code-snippets"
       }
     ]
