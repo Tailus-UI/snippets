@@ -1,9 +1,9 @@
 {
   "name": "snippus",
-  "displayName": "snippus",
-  "description": "Tailus ui components code snippets built with tailwindcss in your your vs code",
+  "displayName": "Tailus Snippets",
+  "description": "Tailus ui components code snippets built with tailwindcss",
   "version": "1.0.0",
-  "publisher": "Tailus",
+  "publisher": "TailusUI",
   "engines": {
     "vscode": "^1.70.0"
   },
