@@ -1,5 +1,5 @@
 {
-  "name": "snippus",
+  "name": "snippets",
   "displayName": "Tailus Snippets",
   "description": "Tailus ui components code snippets built with tailwindcss",
   "icon": "public/icon.png",
@@ -8,8 +8,8 @@
     "theme": "dark"
   },
   "license": "MIT",
-  "version": "1.0.1",
-  "repository": "https://github.com/Tailus-UI/snippus",
+  "version": "0.0.1",
+  "repository": "https://github.com/Tailus-UI/snippets",
   "publisher": "TailusUI",
   "engines": {
     "vscode": "^1.70.0"
