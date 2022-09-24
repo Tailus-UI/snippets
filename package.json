@@ -2,7 +2,14 @@
   "name": "snippus",
   "displayName": "Tailus Snippets",
   "description": "Tailus ui components code snippets built with tailwindcss",
+  "icon": "public/icon.png",
+  "galleryBanner": {
+    "color": "#00325E",
+    "theme": "dark"
+  },
+  "license": "MIT",
   "version": "1.0.0",
+  "repository": "https://github.com/Tailus-UI/snippus",
   "publisher": "TailusUI",
   "engines": {
     "vscode": "^1.70.0"
