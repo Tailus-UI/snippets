@@ -1,5 +1,5 @@
 {
-  "name": "snippets",
+  "name": "tailus-snippets",
   "displayName": "Tailus Snippets",
   "description": "Eazy to customize Modern and beautifull UI components built with tailwindcss that you can use right in your favorite IDE, VS Code.",
   "icon": "public/icon.png",
