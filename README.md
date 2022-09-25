@@ -10,7 +10,7 @@ Our components set contains :
 ### Buttons
 
 - Size (sm, md, lg)
-- Empathis (hight, medium, low)
+- emphasis (hight, medium, low)
 - Border radius (full-rounded, rounded, unrounded) 
 - Icon placement (leading, trailing, icon-only).
 
@@ -43,10 +43,10 @@ VS Code makes snippets easier to use, all you need to get started :
 - Type `tailus-cards` for Cards
 - Type `tailus-navbar` for Navbars
 
-Note that buttons contains many variants (size, empathis, border-radius and icon placement), to use them eficiently include all variants in the prefix by separating with ":".
+Note that buttons contains many variants (size, emphasis, border-radius and icon placement), to use them eficiently include all variants in the prefix by separating with ":".
 
-- eg `tailus-btn:lg:mde:leading` : size:lg empathis:medium icon-placement:leading
-- eg `tailus-btn:lg:low:unrounded:icon` : size:lg empathis:low icon-placement:icon-only border-radius:unrounded
+- eg `tailus-btn:lg:mde:leading` : size:lg emphasis:medium icon-placement:leading
+- eg `tailus-btn:lg:low:unrounded:icon` : size:lg emphasis:low icon-placement:icon-only border-radius:unrounded
 
 When you don't include a variant, the snippet will use the default values
 
