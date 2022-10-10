@@ -1,0 +1,50 @@
+{
+    "tailus secondary button" : {
+        "prefix": "tailus-btn",
+        "body": [
+            "<button class=\"group relative flex h-9 w-max items-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary/10 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:scale-100 disabled:before:bg-gray-300\">",
+                "<span class=\"relative w-max text-sm font-medium text-primary dark:text-primaryLight\"> Get Stared </span>",
+            "</button>"
+        ],
+        "description": "tailus secondary button"
+    },
+    "tailus secondary trailing-icon button" : {
+        "prefix": "tailus-btn:trailing",
+        "body": [
+            "<button class=\"group relative flex h-9 w-max items-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary/10 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:scale-100 disabled:before:bg-gray-300\">",
+            "    <span class=\"relative flex w-max items-center gap-2.5 text-sm font-medium text-primary dark:text-primaryLight\">",
+            "        Get Stared",
+            "        <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"-mx-1 h-4 w-4 transition duration-300 group-hover:translate-x-1\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "        </svg>",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus secondary button with animated trailing-icon on hover"
+    },
+    "tailus secondary leading-icon button" : {
+        "prefix": "tailus-btn:trailing",
+        "body": [
+            "<button class=\"group relative flex h-9 w-max items-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary/10 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:scale-100 disabled:before:bg-gray-300\">",
+            "    <span class=\"relative flex w-max items-center gap-2.5 text-sm font-medium text-primary dark:text-primaryLight\">",
+            "       <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-4 w-4\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "           <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z\" />",
+            "       </svg>",
+            "       Get Stared",
+            "    </span>",
+            "</button>"
+        ],
+        "description": "tailus secondary button with leading-icon"
+    },
+    "tailus secondary icon only button" : {
+        "prefix": "tailus-btn:trailing",
+        "body": [
+            "<button aria-label=\"edit\" class=\"relative flex h-9 w-9 items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-primary/10 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:scale-100 disabled:before:bg-gray-300\">",
+            "   <svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" class=\"relative h-4 w-4 text-primary dark:text-primaryLight\">",
+            "       <path d=\"M21.731 2.269a2.625 2.625 0 00-3.712 0l-1.157 1.157 3.712 3.712 1.157-1.157a2.625 2.625 0 000-3.712zM19.513 8.199l-3.712-3.712-12.15 12.15a5.25 5.25 0 00-1.32 2.214l-.8 2.685a.75.75 0 00.933.933l2.685-.8a5.25 5.25 0 002.214-1.32L19.513 8.2z\" />",
+            "   </svg>",
+            "</button>",
+        ],
+        "description": "tailus secondary icon button"
+    },
+}

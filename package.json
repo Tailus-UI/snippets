@@ -25,6 +25,10 @@
       },
       {
         "language": "html",
+        "path": "./snippets/html/button/secondary.code-snippets"
+      },
+      {
+        "language": "html",
         "path": "./snippets/html/cards/blog.code-snippets"
       },
       {
