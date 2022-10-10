@@ -23,7 +23,7 @@
         "description": "tailus primary button with animated trailing-icon on hover"
     },
     "tailus primary leading-icon button" : {
-        "prefix": "tailus-btn:trailing",
+        "prefix": "tailus-btn:leading",
         "body": [
             "<button class=\"group relative flex h-9 w-max items-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:scale-100 disabled:before:bg-gray-300\">",
             "    <span class=\"relative flex w-max items-center gap-2.5 text-sm font-medium text-white\">",
@@ -37,7 +37,7 @@
         "description": "tailus primary button with leading-icon"
     },
     "tailus primary icon only button" : {
-        "prefix": "tailus-btn:trailing",
+        "prefix": "tailus-btn:icon",
         "body": [
             "<button aria-label=\"edit\" class=\"relative flex h-9 w-9 items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 disabled:before:scale-100 disabled:before:bg-gray-300\">",
             "    <svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" class=\"relative h-4 w-4 text-white\">",

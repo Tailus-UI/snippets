@@ -29,6 +29,10 @@
       },
       {
         "language": "html",
+        "path": "./snippets/html/button/outline.code-snippets"
+      },
+      {
+        "language": "html",
         "path": "./snippets/html/cards/blog.code-snippets"
       },
       {
