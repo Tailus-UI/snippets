@@ -80,6 +80,27 @@
       {
         "language": "vue",
         "path": "./src/html/badge.code-snippets"
+      },
+
+      {
+        "language": "html",
+        "path": "./src/html/button.code-snippets"
+      },
+      {
+        "language": "astro",
+        "path": "./src/html/button.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./src/next/button.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./src/next/button.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./src/html/button.code-snippets"
       }
     ]
   }
