@@ -8,7 +8,7 @@
     "theme": "dark"
   },
   "license": "MIT",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "repository": "https://github.com/Tailus-UI/snippets",
   "publisher": "TailusUI",
   "engines": {
@@ -21,31 +21,11 @@
     "snippets": [
       {
         "language": "html",
-        "path": "./snippets/html/button/primary.code-snippets"
+        "path": "./src/html/annonce.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/html/button/secondary.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/html/button/outline.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/html/cards/blog.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/html/cards/features.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/html/cards/ecommerce.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/html/navbar/navbar.code-snippets"
+        "language": "astro",
+        "path": "./src/html/annonce.code-snippets"
       }
     ]
   }
