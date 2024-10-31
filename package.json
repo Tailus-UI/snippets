@@ -39,6 +39,7 @@
         "language": "vue",
         "path": "./src/nuxt/annonce.code-snippets"
       },
+
       {
         "language": "html",
         "path": "./src/html/avatar.code-snippets"
@@ -58,6 +59,27 @@
       {
         "language": "vue",
         "path": "./src/html/avatar.code-snippets"
+      },
+
+      {
+        "language": "html",
+        "path": "./src/html/badge.code-snippets"
+      },
+      {
+        "language": "astro",
+        "path": "./src/html/badge.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./src/next/badge.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./src/next/badge.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./src/html/badge.code-snippets"
       }
     ]
   }

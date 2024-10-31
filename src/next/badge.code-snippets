@@ -1,0 +1,44 @@
+{
+    "ui neutral badge" : {
+        "prefix": "tls-badge:neutral",
+        "body": [
+            "<span className=\"badge sz-sm variant-neutral\">Badge</span>"
+        ],
+        "description": "tailus ui html badge component neutral variant"
+    },
+    "ui info badge" : {
+        "prefix": "tls-badge:info",
+        "body": [
+            "<span className=\"badge sz-sm variant-info\">Badge</span>"
+        ],
+        "description": "tailus ui html badge component info variant"
+    },
+    "ui success badge" : {
+        "prefix": "tls-badge:success",
+        "body": [
+            "<span className=\"badge sz-sm variant-success\">Badge</span>"
+        ],
+        "description": "tailus ui html badge component success variant"
+    },
+    "ui warning badge" : {
+        "prefix": "tls-badge:warning",
+        "body": [
+            "<span className=\"badge sz-sm variant-warning\">Badge</span>"
+        ],
+        "description": "tailus ui html badge component warning variant"
+    },
+    "ui danger badge" : {
+        "prefix": "tls-badge:danger",
+        "body": [
+            "<span className=\"badge sz-sm variant-danger\">Badge</span>"
+        ],
+        "description": "tailus ui html badge component danger variant"
+    },
+    "ui urgent badge" : {
+        "prefix": "tls-badge:urgent",
+        "body": [
+            "<span className=\"badge sz-sm variant-urgent\">Badge</span>"
+        ],
+        "description": "tailus ui html badge component urgent variant"
+    }
+}
