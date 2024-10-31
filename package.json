@@ -28,12 +28,36 @@
         "path": "./src/html/annonce.code-snippets"
       },
       {
-        "language": "tsx",
+        "language": "javascriptreact",
+        "path": "./src/next/annonce.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
         "path": "./src/next/annonce.code-snippets"
       },
       {
         "language": "vue",
         "path": "./src/nuxt/annonce.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./src/html/avatar.code-snippets"
+      },
+      {
+        "language": "astro",
+        "path": "./src/html/avatar.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./src/next/avatar.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./src/next/avatar.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./src/html/avatar.code-snippets"
       }
     ]
   }
