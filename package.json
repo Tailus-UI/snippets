@@ -26,6 +26,14 @@
       {
         "language": "astro",
         "path": "./src/html/annonce.code-snippets"
+      },
+      {
+        "language": "tsx",
+        "path": "./src/next/annonce.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./src/nuxt/annonce.code-snippets"
       }
     ]
   }
