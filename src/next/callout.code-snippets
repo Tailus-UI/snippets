@@ -1,0 +1,50 @@
+{
+    "ui warning callout" : {
+        "prefix": "tls-callout:warning",
+        "body": [
+            "<div className=\"callout variant-warning flex gap-2.5\">",
+            "  <svg className=\"text-warning-700 dark:text-warning-300 size-6\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\">",
+            "    <path fillRule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z\" clipRule=\"evenodd\" />",
+            "  </svg>",
+            "  <div>",
+            "    <div className=\"callout-title\">Storage almost full!</div>",
+            "    <div className=\"callout-description text-sm mb-5\">New sales from the last subscribers - 20K USD in revenue.</div>",
+            "    <Link href=\"\" className=\"btn variant-outlined sz-xs w-fit\"><span className=\"btn-label\">Details</span></Link>",
+            "  </div>",
+            "</div>"
+        ],
+        "description": "tailus ui html callout component warning variant"
+    },
+    "ui danger callout" : {
+        "prefix": "tls-callout:danger",
+        "body": [
+            "<div className=\"callout variant-danger flex gap-2.5\">",
+            "  <svg className=\"text-danger-700 dark:text-danger-300 size-6\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\">",
+            "    <path fillRule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z\" clipRule=\"evenodd\" />",
+            "  </svg>",
+            "  <div>",
+            "    <div className=\"callout-title\">Storage almost full!</div>",
+            "    <div className=\"callout-description text-sm mb-5\">New sales from the last subscribers - 20K USD in revenue.</div>",
+            "    <Link href=\"\" className=\"btn variant-outlined sz-xs w-fit\"><span className=\"btn-label\">Details</span></Link>",
+            "  </div>",
+            "</div>"
+        ],
+        "description": "tailus ui html callout component danger variant"
+    },
+    "ui neutral callout" : {
+        "prefix": "tls-callout:neutral",
+        "body": [
+            "<div className=\"callout variant-neutral flex gap-2.5\">",
+            "  <svg className=\"text-body size-6\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\">",
+            "    <path fillRule=\"evenodd\" d=\"M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z\" clipRule=\"evenodd\" />",
+            "  </svg>",
+            "  <div>",
+            "    <div className=\"callout-title\">Storage almost full!</div>",
+            "    <div className=\"callout-description text-sm mb-5\">New sales from the last subscribers - 20K USD in revenue.</div>",
+            "    <Link href=\"\" className=\"btn variant-outlined sz-xs w-fit\"><span className=\"btn-label\">Details</span></Link>",
+            "  </div>",
+            "</div>"
+        ],
+        "description": "tailus ui html callout component neutral variant"
+    }
+}

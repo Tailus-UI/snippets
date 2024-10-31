@@ -101,6 +101,27 @@
       {
         "language": "vue",
         "path": "./src/html/button.code-snippets"
+      },
+
+      {
+        "language": "html",
+        "path": "./src/html/callout.code-snippets"
+      },
+      {
+        "language": "astro",
+        "path": "./src/html/callout.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./src/next/callout.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./src/next/callout.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./src/nuxt/callout.code-snippets"
       }
     ]
   }
