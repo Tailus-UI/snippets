@@ -185,6 +185,27 @@
       {
         "language": "vue",
         "path": "./src/html/input.code-snippets"
+      },
+
+      {
+        "language": "html",
+        "path": "./src/html/textarea.code-snippets"
+      },
+      {
+        "language": "astro",
+        "path": "./src/html/textarea.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./src/next/textarea.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./src/next/textarea.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./src/html/textarea.code-snippets"
       }
     ]
   }

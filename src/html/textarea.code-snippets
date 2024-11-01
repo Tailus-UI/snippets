@@ -1,0 +1,57 @@
+{
+    "ui mixed textarea" : {
+        "prefix": "tls-textarea:mixed",
+        "body": [
+            "<div class=\"field\">",
+            "  <label class=\"text-title\" for=\"msg\">Message</label>",
+            "  <textarea class=\"textarea variant-mixed sz-md\" id=\"msg\" rows=\"3\"></textarea>",
+            "  <span class=\"inline-block text-sm text-caption\">Input description</span>",
+            "</div>"
+        ],
+        "description": "tailus ui html textarea component mixed variant"
+    },
+    "ui outlined textarea" : {
+        "prefix": "tls-textarea:outlined",
+        "body": [
+            "<div class=\"field\">",
+            "  <label class=\"text-title\" for=\"msg\">Message</label>",
+            "  <textarea class=\"textarea variant-outlined sz-md\" id=\"msg\" rows=\"3\"></textarea>",
+            "  <span class=\"inline-block text-sm text-caption\">Input description</span>",
+            "</div>"
+        ],
+        "description": "tailus ui html textarea component outlined variant"
+    },
+    "ui plain textarea" : {
+        "prefix": "tls-textarea:plain",
+        "body": [
+            "<div class=\"field\">",
+            "  <label class=\"text-title\" for=\"msg\">Message</label>",
+            "  <textarea class=\"textarea variant-plain sz-md\" id=\"msg\" rows=\"3\"></textarea>",
+            "  <span class=\"inline-block text-sm text-caption\">Input description</span>",
+            "</div>"
+        ],
+        "description": "tailus ui html textarea component plain variant"
+    },
+    "ui soft textarea" : {
+        "prefix": "tls-textarea:soft",
+        "body": [
+            "<div class=\"field\">",
+            "  <label class=\"text-title\" for=\"msg\">Message</label>",
+            "  <textarea class=\"textarea variant-soft sz-md\" id=\"msg\" rows=\"3\"></textarea>",
+            "  <span class=\"inline-block text-sm text-caption\">Input description</span>",
+            "</div>"
+        ],
+        "description": "tailus ui html textarea component soft variant"
+    },
+    "ui bottomOutlined textarea" : {
+        "prefix": "tls-textarea:bottomOutlined",
+        "body": [
+            "<div class=\"field\">",
+            "  <label class=\"text-title\" for=\"msg\">Message</label>",
+            "  <textarea class=\"textarea variant-bottomOutlined sz-md\" id=\"msg\" rows=\"3\"></textarea>",
+            "  <span class=\"inline-block text-sm text-caption\">Input description</span>",
+            "</div>"
+        ],
+        "description": "tailus ui html textarea component bottomOutlined variant"
+    }
+}
