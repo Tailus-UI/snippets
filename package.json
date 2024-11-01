@@ -248,6 +248,27 @@
       {
           "language": "vue",
           "path": "./src/html/radio-card.code-snippets"
+      },
+
+      {
+          "language": "html",
+          "path": "./src/html/radio-group.code-snippets"
+      },
+      {
+          "language": "astro",
+          "path": "./src/html/radio-group.code-snippets"
+      },
+      {
+          "language": "javascriptreact",
+          "path": "./src/next/radio-group.code-snippets"
+      },
+      {
+          "language": "typescriptreact",
+          "path": "./src/next/radio-group.code-snippets"
+      },
+      {
+          "language": "vue",
+          "path": "./src/html/radio-group.code-snippets"
       }
     ]
   }
