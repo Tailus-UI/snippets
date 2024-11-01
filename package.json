@@ -164,6 +164,27 @@
       {
         "language": "vue",
         "path": "./src/html/checkbox.code-snippets"
+      },
+
+      {
+        "language": "html",
+        "path": "./src/html/input.code-snippets"
+      },
+      {
+        "language": "astro",
+        "path": "./src/html/input.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./src/next/input.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./src/next/input.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./src/html/input.code-snippets"
       }
     ]
   }
