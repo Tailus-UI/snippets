@@ -1,0 +1,57 @@
+{
+    "ui mixed input" : {
+        "prefix": "tls-input:mixed",
+        "body": [
+            "<div class=\"field\">",
+            "  <label class=\"text-title\" for=\"email2\">Email</label>",
+            "  <input type='email' id=\"email2\" class=\"input variant-mixed sz-md\"/>",
+            "  <span class=\"inline-block text-sm text-caption\">Input description</span>",
+            "</div>"
+        ],
+        "description": "tailus ui html input component mixed variant"
+    },
+    "ui outlined input" : {
+        "prefix": "tls-input:outlined",
+        "body": [
+            "<div class=\"field\">",
+            "  <label class=\"text-title\" for=\"email2\">Email</label>",
+            "  <input type='email' id=\"email2\" class=\"input variant-outlined sz-md\"/>",
+            "  <span class=\"inline-block text-sm text-caption\">Input description</span>",
+            "</div>"
+        ],
+        "description": "tailus ui html input component outlined variant"
+    },
+    "ui plain input" : {
+        "prefix": "tls-input:plain",
+        "body": [
+            "<div class=\"field\">",
+            "  <label class=\"text-title\" for=\"email2\">Email</label>",
+            "  <input type='email' id=\"email2\" class=\"input variant-plain sz-md\"/>",
+            "  <span class=\"inline-block text-sm text-caption\">Input description</span>",
+            "</div>"
+        ],
+        "description": "tailus ui html input component plain variant"
+    },
+    "ui soft input" : {
+        "prefix": "tls-input:soft",
+        "body": [
+            "<div class=\"field\">",
+            "  <label class=\"text-title\" for=\"email2\">Email</label>",
+            "  <input type='email' id=\"email2\" class=\"input variant-soft sz-md\"/>",
+            "  <span class=\"inline-block text-sm text-caption\">Input description</span>",
+            "</div>"
+        ],
+        "description": "tailus ui html input component soft variant"
+    },
+    "ui bottomOutlined input" : {
+        "prefix": "tls-input:bottomOutlined",
+        "body": [
+            "<div class=\"field\">",
+            "  <label class=\"text-title\" for=\"email2\">Email</label>",
+            "  <input type='email' id=\"email2\" class=\"input variant-bottomOutlined sz-md\"/>",
+            "  <span class=\"inline-block text-sm text-caption\">Input description</span>",
+            "</div>"
+        ],
+        "description": "tailus ui html input component bottomOutlined variant"
+    }
+}

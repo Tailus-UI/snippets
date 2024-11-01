@@ -1,0 +1,55 @@
+{
+    "tailus ui html annonce" : {
+        "prefix": "tls-annonce",
+        "body": [
+            "<Link href=\"#\" className=\"annonce variant-mixed gap-2 sz-sm w-fit mx-auto\">",
+            "    <span className=\"annonce-concern sz-xs variant-neutral\">New</span>",
+            "    <span className=\"text-title text-sm\">Introduction Tailus UI Html</span>",
+            "</Link>"
+        ],
+        "description": "tailus ui html annonce component"
+    },
+    "tailus ui html soft annonce" : {
+        "prefix": "tls-annonce:soft",
+        "body": [
+            "<Link href=\"#\" className=\"annonce variant-soft gap-2 sz-sm w-fit mx-auto\">",
+            "    <span className=\"annonce-concern sz-xs variant-primary\">New</span>",
+            "    <span className=\"text-title text-sm\">Introduction Tailus UI Html</span>",
+            "</Link>"
+        ],
+        "description": "tailus ui html annonce component, soft variant"
+    },
+    "tailus ui html outlined annonce" : {
+        "prefix": "tls-annonce:outlined",
+        "body": [
+            "<Link href=\"#\" className=\"annonce variant-outlined gap-2 sz-sm w-fit mx-auto\">",
+            "    <span className=\"annonce-concern sz-xs variant-primary\">New</span>",
+            "    <span className=\"text-title text-sm\">Introduction Tailus UI Html</span>",
+            "</Link>"
+        ],
+        "description": "tailus ui html annonce component, outlined variant"
+    },
+    "tailus ui html plain annonce" : {
+        "prefix": "tls-annonce:plain",
+        "body": [
+            "<Link href=\"#\" className=\"annonce gap-2 sz-sm w-fit mx-auto\">",
+            "    <span className=\"annonce-concern sz-xs variant-primary\">New</span>",
+            "    <span className=\"text-title text-sm\">Introduction Tailus UI Html</span>",
+            "</Link>"
+        ],
+        "description": "tailus ui html annonce component, plain variant"
+    },
+    "tailus ui html annonce with icon" : {
+        "prefix": "tls-annonce:icon",
+        "body": [
+            "<Link href=\"#\" className=\"annonce variant-mixed gap-2 sz-sm w-fit mx-auto\">",
+            "    <span className=\"annonce-concern sz-xs variant-primary\">New</span>",
+            "    <span className=\"text-title text-sm\">Introduction Tailus UI Html</span>",
+            "    <svg xmlns=\"http://www.w3.org/2000/svg\" className=\"size-4 ml-1 -mr-2 text-primary-600 dark:text-primary-400\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\">",
+            "        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 5l7 7-7 7\" />",
+            "    </svg>",
+            "</Link>"
+        ],
+        "description": "tailus ui html annonce component with trailing-icon"
+    }
+}

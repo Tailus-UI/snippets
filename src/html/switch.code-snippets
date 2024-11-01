@@ -1,0 +1,18 @@
+{
+    "ui switch" : {
+        "prefix": "tls-switch",
+        "body": [
+            "<div class=\"field\">",
+            "  <div class=\"grid [grid-template-columns:1fr_auto]\">",
+            "    <label for=\"sw1\" class=\"text-title\">Airplane mode</label>",
+            "    <label for=\"sw1\" class=\"switch variant-primary\">",
+            "      <input checked class=\"peer\" type=\"checkbox\" id=\"sw1\" name=\"switch1\" />",
+            "      <span class=\"switch-thumb\"></span>",
+            "    </label>",
+            "  </div>",
+            "  <span class=\"block text-caption text-sm\">Switch components are used to allow users to toggle between two states, such as on and off.</span>",
+            "</div>"
+        ],
+        "description": "tailus ui html switch component"
+    }
+}

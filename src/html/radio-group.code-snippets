@@ -1,0 +1,40 @@
+{
+    "ui radio group" : {
+        "prefix": "tls-radio-group",
+        "body": [
+            "<form class=\"space-y-6 max-w-sm w-full\" data-shade=\"900\">",
+            "  <div class=\"field\">",
+            "    <div class=\"grid items-center gap-x-3 gap-y-1 [grid-template-columns:auto_1fr]\">",
+            "      <label for=\"r1\" class=\"radio group rounded-full\">",
+            "        <input class=\"peer\" type=\"radio\" id=\"r1\" name=\"radio1\" />",
+            "        <span class=\"radio-indicator\"></span>",
+            "      </label>",
+            "      <label for=\"r1\" class=\"block text-title select-none\">Create a private project</label>",
+            "      <span class=\"col-start-2 block text-caption text-sm\">As a private project, only admins could rewrite</span>",
+            "    </div>",
+            "  </div>",
+            "  <div class=\"field\">",
+            "    <div class=\"grid items-center gap-x-3 gap-y-1 [grid-template-columns:auto_1fr]\">",
+            "      <label for=\"r2\" class=\"radio group rounded-full\">",
+            "        <input class=\"peer\" type=\"radio\" id=\"r2\" name=\"radio1\" />",
+            "        <span class=\"radio-indicator\"></span>",
+            "      </label>",
+            "      <label for=\"r2\" class=\"block text-title select-none\">Create a public project</label>",
+            "      <span class=\"col-start-2 block text-caption text-sm\">As a private project, only admins could rewrite</span>",
+            "    </div>",
+            "  </div>",
+            "  <div class=\"field\">",
+            "    <div class=\"grid items-center gap-x-3 gap-y-1 [grid-template-columns:auto_1fr]\">",
+            "      <label for=\"r3\" class=\"radio group rounded-full\">",
+            "        <input class=\"peer\" type=\"radio\" id=\"r3\" name=\"radio1\" />",
+            "        <span class=\"radio-indicator\"></span>",
+            "      </label>",
+            "      <label for=\"r3\" class=\"block text-title select-none\">Create an internal project</label>",
+            "      <span class=\"col-start-2 block text-caption text-sm\">As a private project, only admins could rewrite</span>",
+            "    </div>",
+            "  </div>",
+            "</form>"
+        ],
+        "description": "tailus ui html radio group component"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "ui avatar" : {
+        "prefix": "tls-avatar",
+        "body": [
+            "<div class=\"avatar sz-md\">",
+            "  <img src=\"https://avatars.githubusercontent.com/u/47919550?v=4\" alt=\"Méschac Irung\" width=\"\" height=\"\" />",
+            "</div>"
+        ],
+        "description": "tailus ui html avatar component"
+    },
+    "ui neutral avatar" : {
+        "prefix": "tls-avatar:neutral",
+        "body": [
+            "<div class=\"avatar sz-md fallback-neutral\">M</div>"
+        ],
+        "description": "tailus ui html avatar component neutral fallback"
+    },
+    "ui primary avatar" : {
+        "prefix": "tls-avatar:primary",
+        "body": [
+            "<div class=\"avatar sz-md fallback-primary\">N</div>"
+        ],
+        "description": "tailus ui html avatar component primary fallback"
+    },
+}
