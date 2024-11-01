@@ -122,6 +122,27 @@
       {
         "language": "vue",
         "path": "./src/nuxt/callout.code-snippets"
+      },
+
+      {
+        "language": "html",
+        "path": "./src/html/card.code-snippets"
+      },
+      {
+        "language": "astro",
+        "path": "./src/html/card.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./src/next/card.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./src/next/card.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./src/html/card.code-snippets"
       }
     ]
   }

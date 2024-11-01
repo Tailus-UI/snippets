@@ -1,0 +1,62 @@
+{
+    "ui mixed card" : {
+        "prefix": "tls-card",
+        "body": [
+            "<div class=\"card variant-mixed group\">",
+            "  <div class=\"relative mx-auto size-36 duration-300 [--ui-border-color:theme(colors.gray.950/0.1)] group-hover:[--ui-border-color:theme(colors.gray.950/0.2)] dark:[--ui-border-color:theme(colors.white/0.15)] dark:group-hover:bg-primary-950 dark:group-hover:[--ui-border-color:theme(colors.white/0.2)]\">",
+            "    <div class=\"absolute inset-0 bg-[linear-gradient(to_right,var(--ui-border-color)_1px,transparent_1px),linear-gradient(to_bottom,var(--ui-border-color)_1px,transparent_1px)] bg-[size:24px_24px]\"></div>",
+            "    <div class=\"absolute inset-0 bg-gradient-to-t from-[--ui-bg] via-transparent to-[--ui-bg]\"></div>",
+            "    <div class=\"absolute inset-0 bg-gradient-to-r from-[--ui-bg] via-transparent to-[--ui-bg]\"></div>",
+            "    <div class=\"bg-ui absolute inset-0 m-auto flex size-12 items-center justify-center border-l border-t\">",
+            "      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" class=\"size-6\">",
+            "        <path fill-rule=\"evenodd\" d=\"M14.615 1.595a.75.75 0 0 1 .359.852L12.982 9.75h7.268a.75.75 0 0 1 .548 1.262l-10.5 11.25a.75.75 0 0 1-1.272-.71l1.992-7.302H3.75a.75.75 0 0 1-.548-1.262l10.5-11.25a.75.75 0 0 1 .913-.143Z\" clip-rule=\"evenodd\"></path>",
+            "      </svg>",
+            "    </div>",
+            "  </div>",
+            "  <h3 class=\"text-title mt-6 font-medium\">Customizable</h3>",
+            "  <p class=\"mt-3 text-sm\">Extensive customization options, allowing you to tailor every aspect to meet your specific needs.</p>",
+            "</div>"
+        ],
+        "description": "tailus ui html card component mixed variant"
+    },
+    "ui soft card" : {
+        "prefix": "tls-card:soft",
+        "body": [
+            "<div class=\"card variant-soft group\">",
+            "  <div class=\"relative mx-auto size-36 duration-300 [--ui-border-color:theme(colors.gray.950/0.1)] group-hover:[--ui-border-color:theme(colors.gray.950/0.2)] dark:[--ui-border-color:theme(colors.white/0.15)] dark:group-hover:bg-primary-950 dark:group-hover:[--ui-border-color:theme(colors.white/0.2)]\">",
+            "    <div class=\"absolute inset-0 bg-[linear-gradient(to_right,var(--ui-border-color)_1px,transparent_1px),linear-gradient(to_bottom,var(--ui-border-color)_1px,transparent_1px)] bg-[size:24px_24px]\"></div>",
+            "    <div class=\"absolute inset-0 bg-gradient-to-t from-[--ui-bg] via-transparent to-[--ui-bg]\"></div>",
+            "    <div class=\"absolute inset-0 bg-gradient-to-r from-[--ui-bg] via-transparent to-[--ui-bg]\"></div>",
+            "    <div class=\"bg-ui absolute inset-0 m-auto flex size-12 items-center justify-center border-l border-t\">",
+            "      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" class=\"size-6\">",
+            "        <path fill-rule=\"evenodd\" d=\"M14.615 1.595a.75.75 0 0 1 .359.852L12.982 9.75h7.268a.75.75 0 0 1 .548 1.262l-10.5 11.25a.75.75 0 0 1-1.272-.71l1.992-7.302H3.75a.75.75 0 0 1-.548-1.262l10.5-11.25a.75.75 0 0 1 .913-.143Z\" clip-rule=\"evenodd\"></path>",
+            "      </svg>",
+            "    </div>",
+            "  </div>",
+            "  <h3 class=\"text-title mt-6 font-medium\">Customizable</h3>",
+            "  <p class=\"mt-3 text-sm\">Extensive customization options, allowing you to tailor every aspect to meet your specific needs.</p>",
+            "</div>"
+        ],
+        "description": "tailus ui html card component soft variant"
+    },
+    "ui outlined card" : {
+        "prefix": "tls-card:outlined",
+        "body": [
+            "<div class=\"card variant-outlined group\">",
+            "  <div class=\"relative mx-auto size-36 duration-300 [--ui-border-color:theme(colors.gray.950/0.1)] group-hover:[--ui-border-color:theme(colors.gray.950/0.2)] dark:[--ui-border-color:theme(colors.white/0.15)] dark:group-hover:bg-primary-950 dark:group-hover:[--ui-border-color:theme(colors.white/0.2)]\">",
+            "    <div class=\"absolute inset-0 bg-[linear-gradient(to_right,var(--ui-border-color)_1px,transparent_1px),linear-gradient(to_bottom,var(--ui-border-color)_1px,transparent_1px)] bg-[size:24px_24px]\"></div>",
+            "    <div class=\"absolute inset-0 bg-gradient-to-t from-[--ui-bg] via-transparent to-[--ui-bg]\"></div>",
+            "    <div class=\"absolute inset-0 bg-gradient-to-r from-[--ui-bg] via-transparent to-[--ui-bg]\"></div>",
+            "    <div class=\"bg-ui absolute inset-0 m-auto flex size-12 items-center justify-center border-l border-t\">",
+            "      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" class=\"size-6\">",
+            "        <path fill-rule=\"evenodd\" d=\"M14.615 1.595a.75.75 0 0 1 .359.852L12.982 9.75h7.268a.75.75 0 0 1 .548 1.262l-10.5 11.25a.75.75 0 0 1-1.272-.71l1.992-7.302H3.75a.75.75 0 0 1-.548-1.262l10.5-11.25a.75.75 0 0 1 .913-.143Z\" clip-rule=\"evenodd\"></path>",
+            "      </svg>",
+            "    </div>",
+            "  </div>",
+            "  <h3 class=\"text-title mt-6 font-medium\">Customizable</h3>",
+            "  <p class=\"mt-3 text-sm\">Extensive customization options, allowing you to tailor every aspect to meet your specific needs.</p>",
+            "</div>"
+        ],
+        "description": "tailus ui html card component outlined variant"
+    }
+}
