@@ -206,6 +206,48 @@
       {
         "language": "vue",
         "path": "./src/html/textarea.code-snippets"
+      },
+
+      {
+          "language": "html",
+          "path": "./src/html/progress.code-snippets"
+      },
+      {
+          "language": "astro",
+          "path": "./src/html/progress.code-snippets"
+      },
+      {
+          "language": "javascriptreact",
+          "path": "./src/next/progress.code-snippets"
+      },
+      {
+          "language": "typescriptreact",
+          "path": "./src/next/progress.code-snippets"
+      },
+      {
+          "language": "vue",
+          "path": "./src/html/progress.code-snippets"
+      },
+
+      {
+          "language": "html",
+          "path": "./src/html/radio-card.code-snippets"
+      },
+      {
+          "language": "astro",
+          "path": "./src/html/radio-card.code-snippets"
+      },
+      {
+          "language": "javascriptreact",
+          "path": "./src/next/radio-card.code-snippets"
+      },
+      {
+          "language": "typescriptreact",
+          "path": "./src/next/radio-card.code-snippets"
+      },
+      {
+          "language": "vue",
+          "path": "./src/html/radio-card.code-snippets"
       }
     ]
   }

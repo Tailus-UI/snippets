@@ -1,0 +1,11 @@
+{
+    "ui progress" : {
+        "prefix": "tls-progress",
+        "body": [
+            "<div className=\"progress sz-md max-w-sm w-full\" aria-valuemax=\"100\" aria-valuemin=\"0\" aria-valuenow=\"66\" aria-valuetext=\"66%\" role=\"progressbar\" style={{ transform: 'translateZ(0)' }}>",
+            "  <div className=\"progress-indicator variant-primary w-[66%]\"></div>",
+            "</div>"
+        ],
+        "description": "tailus ui html progress component"
+    }
+}
