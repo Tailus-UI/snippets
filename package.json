@@ -143,6 +143,27 @@
       {
         "language": "vue",
         "path": "./src/html/card.code-snippets"
+      },
+
+      {
+        "language": "html",
+        "path": "./src/html/checkbox.code-snippets"
+      },
+      {
+        "language": "astro",
+        "path": "./src/html/checkbox.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./src/next/checkbox.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./src/next/checkbox.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./src/html/checkbox.code-snippets"
       }
     ]
   }

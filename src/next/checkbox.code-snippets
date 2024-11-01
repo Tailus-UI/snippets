@@ -1,0 +1,20 @@
+{
+    "ui checkbox" : {
+        "prefix": "tls-checkbox",
+        "body": [
+            "<div className=\"field\">",
+            "  <div className=\"grid items-center gap-x-3 gap-y-1 [grid-template-columns:auto_1fr]\">",
+            "    <label htmlFor=\"c1\" className=\"checkbox group\">",
+            "      <input className=\"peer\" type=\"checkbox\" id=\"c1\" name=\"checkbox1\" />",
+            "      <svg className=\"checkbox-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" strokeWidth=\"3\" strokeLinecap=\"round\" strokeLinejoin=\"round\" style={{ pointerEvents: 'none' }}>",
+            "        <path d=\"M20 6 9 17l-5-5\"></path>",
+            "      </svg>",
+            "    </label>",
+            "    <label htmlFor=\"c1\" className=\"block text-title select-none\">Create a private project</label>",
+            "    <span className=\"col-start-2 block text-caption text-sm\">As a private project, only admins could rewrite</span>",
+            "  </div>",
+            "</div>"
+        ],
+        "description": "tailus ui html checkbox component"
+    }
+}
