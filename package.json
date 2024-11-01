@@ -290,6 +290,27 @@
       {
           "language": "vue",
           "path": "./src/html/select.code-snippets"
+      },
+
+      {
+          "language": "html",
+          "path": "./src/html/switch.code-snippets"
+      },
+      {
+          "language": "astro",
+          "path": "./src/html/switch.code-snippets"
+      },
+      {
+          "language": "javascriptreact",
+          "path": "./src/next/switch.code-snippets"
+      },
+      {
+          "language": "typescriptreact",
+          "path": "./src/next/switch.code-snippets"
+      },
+      {
+          "language": "vue",
+          "path": "./src/html/switch.code-snippets"
       }
     ]
   }
